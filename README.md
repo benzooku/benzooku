@@ -1,1 +1,3 @@
-I'm Benzooku
+Hi, i'm Benzooku.
+
+Here you'll find everything im working on and maybe some finisched things.
